@@ -21,7 +21,7 @@ export default function ThankYouPage() {
 
   // ⚠️ IMPORTANTE: Substitua pelo seu número de WhatsApp real
   // Formato: 55 (Brasil) + DDD + número (sem espaços, traços ou +)
-  const WHATSAPP_NUMBER = "5511999999999";
+  const WHATSAPP_NUMBER = "17275546595";
   const WHATSAPP_MESSAGE = encodeURIComponent(
     "Olá! Acabei de me inscrever no site BrasilClear para a sessão introdutória gratuita de Dianética. Gostaria de agendar meu horário."
   );
